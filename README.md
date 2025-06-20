@@ -4,6 +4,8 @@
 
 [![Crates.io](https://img.shields.io/crates/v/oxre)](https://crates.io/crates/oxre)
 
+![ScreenRecording2025-06-20at17 51 56-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a3600787-0bbd-48e3-b344-2c00ae5b0f66)
+
 **oxre** scaffolds React projects with no network requests. All templates embedded.
 
 ## 🚀 Quick Start
