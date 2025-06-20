@@ -54,6 +54,14 @@ Wanted a React scaffolder that:
 cargo install oxre
 ```
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+- Open issues for bugs or feature requests
+- Submit pull requests
+- Suggest improvements
+
 ## 📄 License
 
 MIT - see [LICENSE](LICENSE)
