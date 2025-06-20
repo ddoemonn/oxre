@@ -4,7 +4,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/oxre)](https://crates.io/crates/oxre)
 
-**oxre** scaffolds React projects in **~0.33 seconds**. No network requests, no waiting.
+**oxre** scaffolds React projects with no network requests. All templates embedded.
 
 ## 🚀 Quick Start
 
@@ -22,14 +22,12 @@ oxre my-ts-app --typescript
 cd my-app && npm install && npm run dev
 ```
 
-## ⚡ Performance
+## ⚡ Why oxre?
 
-| Tool | Time | Network | Size |
-|------|------|---------|------|
-| `vite create react` | ~15s | Required | ~50MB |
-| **`oxre`** | **0.33s** | None | **2MB** |
-
-*Tested on MacBook Air M4*
+- **Works offline** - No network requests needed
+- **Embedded templates** - Everything built-in
+- **Simple** - Just one command
+- **Modern stack** - React 18 + Vite 5
 
 ## 🛠️ What You Get
 
@@ -41,10 +39,10 @@ cd my-app && npm install && npm run dev
 
 ## 🤔 Why I Built oxre
 
-Tired of waiting for project scaffolding. Wanted something that:
+Wanted a React scaffolder that:
 
 - Works offline
-- Takes < 1 second  
+- Has no network dependencies
 - Uses modern tools
 - Just works
 
